@@ -79,8 +79,7 @@ CodeAlpha_Data_Analytics/
 │   └── chart3.png
 │
 └── README.md
-🛠 Installation
-git clone https://github.com/your-username/codealpha-data-analytics.git
+
 
 cd codealpha-data-analytics
 
